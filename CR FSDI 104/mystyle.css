@@ -1,0 +1,64 @@
+.wrap{
+  display: flex;
+  justify-content: space-between;
+}
+
+.square{
+  flex-basis: 35%;
+  height: 60vh;
+  margin: 1rem;
+  padding: 1rem;
+  background-color:  grey;
+  text-align: center;
+
+}
+
+.console{
+  color: white;
+  background: black;
+  height:20vh;
+  width: 80%;
+  margin-left:auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: auto;
+
+}
+
+
+
+header{
+  text-align: center;
+}
+
+footer{
+  text-align: center;
+  margin-top: 2rem;
+
+}
+.character{
+  margin-left: auto;
+  margin-right: auto;
+  height: 30vh;
+  background-color: grey;
+
+}
+.character2{
+  height: 15vh;
+  margin-left: auto;
+  margin-right: auto;
+ 
+  background-color: black;
+
+}
+
+button{
+  background-color:red;
+  color:white;
+  text-align: center;
+  width: 50%;
+  height: 5vh;
+  margin: 1rem;
+  font-size: 18px;
+
+}
